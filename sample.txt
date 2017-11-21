@@ -1,3 +1,6 @@
 Hi, This is sample to test git merge.
 
 Yes you heard right.
+
+
+Ok I am editing this line from eclipse.
